@@ -29,3 +29,39 @@ header, footer {
     color: #fff;
     text-align: center;
 }
+
+.logo {
+    font-size: 2em;
+    color: #ff6600;
+    margin-right: 1em;
+}
+
+nav ul {
+    background-color: #333;
+    padding: 0.5em;
+    border-radius: 5px;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 1em;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff6600;
+}
+
+article {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1.5em;
+    border-radius: 8px;
+    color: #333;
+}
